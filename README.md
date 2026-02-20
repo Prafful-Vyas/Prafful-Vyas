@@ -14,16 +14,16 @@ Whether it’s optimizing a database query, fine-tuning a data pipeline, or sett
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C++, JavaScript, SQL  
-- **Backend:** Django, Flask, FastAPI  
-- **Data Engineering:** Airflow, Spark, Pandas, AWS  
-- **Data Science:** NumPy, Scikit-learn, Matplotlib  
-- **DevOps & Tools:** Docker, GitHub Actions, Linux, CI/CD, PostgreSQL  
+- **Languages:** Python, C  
+- **Backend:** FastAPI  
+- **Data Engineering:** SQL, Airflow, Spark, AWS  
+- **Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib  
+- **DevOps & Tools:** Docker, GitHub Actions, Linux, Terraform
 
 ---
 
 ### 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:praffulvyas@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:praffulvyas07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praffulvyas)
 
 ---
