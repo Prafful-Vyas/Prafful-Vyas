@@ -17,8 +17,9 @@ Whether it’s optimizing a database query, fine-tuning a data pipeline, or sett
 - **Languages:** Python, C  
 - **Backend:** FastAPI  
 - **Data Engineering:** SQL, Airflow, Spark, AWS  
-- **Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib  
-- **DevOps & Tools:** Docker, GitHub Actions, Linux, Terraform
+- **Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib 
+- **Observability:** Open telemetry, Prometheus, Grafana, Loki
+- **DevOps & Tools:** Docker, GitHub Actions, Bash Scripting, Terraform
 
 ---
 
