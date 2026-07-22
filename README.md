@@ -14,8 +14,8 @@ Whether it’s optimizing a database query, fine-tuning a data pipeline, or sett
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C  
-- **Backend:** FastAPI  
+- **Languages:** Python, JavaScript
+- **Backend:** FastAPI, Pydantic, SQLAlchemy  
 - **Data Engineering:** SQL, Airflow, Spark, AWS  
 - **Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib 
 - **Observability:** Open telemetry, Prometheus, Grafana, Loki
